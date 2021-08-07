@@ -1,0 +1,5 @@
+Map(Paginate 
+   (Document (Collection ("collectionName"))
+   ), 
+    Lambda('X', Get(Var('X')))
+)
